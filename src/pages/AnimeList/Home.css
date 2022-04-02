@@ -1,0 +1,13 @@
+#home {
+   margin: 10px 20px;
+}
+#home .heading{
+    margin: 50px 0;
+    text-align:center;
+    color: #818080;
+    font-size: 38px;
+}
+#home .container{
+    display: flex;
+    flex-direction: column;
+}
